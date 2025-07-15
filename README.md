@@ -1,6 +1,6 @@
-# Aizou1 - Supec Assistant
+#zou1 - Supec Assistant
 
-Welcome to **Aizou1**, the official prototype of **Erevate Inc's first Assistant** — an AI-powered chatbot built using **Next.js**.
+Welcome to **zou1**, the official prototype of **Erevate Inc's first Assistant** — an AI-powered chatbot built using **Next.js**.
 
 ![Logo](./public/logo.png)
 
