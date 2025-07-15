@@ -1,4 +1,4 @@
-##Zou1 - Erevate Assistant
+# Aizou1 - Erevate Assistant
 
 Welcome to **zou1**, the official prototype of **Erevate Inc's first Assistant** — an AI-powered chatbot built using **Next.js**.
 
