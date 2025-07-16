@@ -1,5 +1,5 @@
 # Aizou1 - Erevate Assistant
-
+Now it is of on mentenace!
 Welcome to **zou1**, the official prototype of **Erevate Inc's first Assistant** — an AI-powered chatbot built using **Next.js**.
 
 ![Logo](./public/logo.png)
